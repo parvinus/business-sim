@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/businesssim.client/obj/Debug
+/BusinessSim.Data/bin/Debug/net8.0
+/BusinessSim.Data/obj
+/BusinessSim.Server/bin/Debug/net8.0
+/BusinessSim.Server/obj
+/BusinessSim.Services/bin/Debug/net8.0
+/BusinessSim.Services/obj
+/BusinessSim.ServicesTests/obj
+/BusinessSim.ServicesTests/bin/Debug/net8.0
+/BusinessSim.Tests/bin/Debug/net8.0
+/BusinessSim.Tests/obj
+/BusinessSim.sln.DotSettings.user
